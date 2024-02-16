@@ -4,5 +4,6 @@
 int main()
 {
 printf("hello , world !!!!\n");
-
+printd("trying vim editor);
+return 0;
 }
