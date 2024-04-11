@@ -5,5 +5,6 @@ int main()
 {
 printf("hello , world !!!!\n");
 printd("trying vim editor);
+printf("Bye Bye !!!!!!");  
 return 0;
 }
